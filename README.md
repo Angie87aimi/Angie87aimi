@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angie87aimi
-- 👀 I’m interested in science, new tech and data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on, I'm not sure right now, I'am exploring but I'am really interested in biology and environment.
+- 👀 I’m interested in science and new tech;
+- 🌱 I’m currently learning about programming, data science and cyber.
+- 💞️ I’m looking to collaborate with a dynamic team in a positive and innovating environment. 
 - 📫 How to reach me by email angie87aimi@icloud.com
 
 <!---
