@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angie87aimi
 - 👀 I’m interested in science and new tech;
-- 🌱 I’m currently learning about programming, data science/analisis and cyber.
+- 🌱 I’m currently learning about programming, data science/analysis and cyber.
 - 💞️ I’m looking to collaborate with a dynamic team in a positive and innovating environment. 
 - 📫 How to reach me by email angie87aimi@icloud.com
 
