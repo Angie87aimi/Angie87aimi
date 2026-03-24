@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angie87aimi
-- 👀 I’m interested in science and new tech;
+- 👀 I’m interested in science, computers and digital security;
 - 🌱 I’m currently learning about programming, data science/analysis and CY83RS3CUR1TY.
 - 💞️ I’m looking to collaborate with a dynamic team in a positive and innovating environment. 
   
